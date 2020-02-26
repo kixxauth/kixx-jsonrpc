@@ -1,0 +1,18 @@
+{
+  "name": "kixx-jsonrpc",
+  "version": "1.0.0",
+  "description": "JSON-RPC server library for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-rpc",
+    "json",
+    "rpc",
+    "server",
+    "client"
+  ],
+  "author": "Kris Walker (www.kixx.name)",
+  "license": "MIT"
+}
